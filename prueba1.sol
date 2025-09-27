@@ -1,4 +1,8 @@
- // actualizacion de prueba 13.30hs.
+
+///SPDX-License_Identifier: MIT 
+pragma solidity ^0.8.30;
+
+// actualizacion de prueba 13.30hs.
 
 contract MyContract {
     uint public publicVar = 10;
