@@ -1,5 +1,5 @@
 ///SPDX-License_Identifier: MIT 
-pragma solidity 0.8.26;
+pragma solidity 0.8.30;
 
 /** 
  * @title Contrato Mensaje 
