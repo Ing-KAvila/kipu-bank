@@ -16,6 +16,7 @@
 - Variables immutable para límites definidos en el constructor.
 - Eventos para trazabilidad de acciones.
 - Comentarios NatSpec para documentación clara. 
+- Se aplicó convenciones de nombres adecuadas.
 
 **Instrucciones de despliegue**
 1. **Requisitos previos**:
