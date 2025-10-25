@@ -40,4 +40,4 @@
 
 
 Ubicación: **Buenos Aires, Argentina.** 
-Fecha:     **Octubre 2025**
+Fecha:     **03 Octubre 2025**
